@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/23-REACT-REDUX-MOVIE-APP/static/css/main.5ef52999.chunk.css",
+    "main.js": "/23-REACT-REDUX-MOVIE-APP/static/js/main.a71497fb.chunk.js",
+    "main.js.map": "/23-REACT-REDUX-MOVIE-APP/static/js/main.a71497fb.chunk.js.map",
+    "runtime-main.js": "/23-REACT-REDUX-MOVIE-APP/static/js/runtime-main.d6755f5e.js",
+    "runtime-main.js.map": "/23-REACT-REDUX-MOVIE-APP/static/js/runtime-main.d6755f5e.js.map",
+    "static/css/2.80f7e896.chunk.css": "/23-REACT-REDUX-MOVIE-APP/static/css/2.80f7e896.chunk.css",
+    "static/js/2.9cee409c.chunk.js": "/23-REACT-REDUX-MOVIE-APP/static/js/2.9cee409c.chunk.js",
+    "static/js/2.9cee409c.chunk.js.map": "/23-REACT-REDUX-MOVIE-APP/static/js/2.9cee409c.chunk.js.map",
+    "index.html": "/23-REACT-REDUX-MOVIE-APP/index.html",
+    "precache-manifest.826b78bba495bd7a34d2247a658c7278.js": "/23-REACT-REDUX-MOVIE-APP/precache-manifest.826b78bba495bd7a34d2247a658c7278.js",
+    "service-worker.js": "/23-REACT-REDUX-MOVIE-APP/service-worker.js",
+    "static/css/2.80f7e896.chunk.css.map": "/23-REACT-REDUX-MOVIE-APP/static/css/2.80f7e896.chunk.css.map",
+    "static/css/main.5ef52999.chunk.css.map": "/23-REACT-REDUX-MOVIE-APP/static/css/main.5ef52999.chunk.css.map",
+    "static/media/mdb.css": "/23-REACT-REDUX-MOVIE-APP/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/23-REACT-REDUX-MOVIE-APP/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6755f5e.js",
+    "static/css/2.80f7e896.chunk.css",
+    "static/js/2.9cee409c.chunk.js",
+    "static/css/main.5ef52999.chunk.css",
+    "static/js/main.a71497fb.chunk.js"
+  ]
+}
