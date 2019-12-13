@@ -1,0 +1,17 @@
+.film-card{
+    /* height: 700px; */
+    width: 290px;
+    margin : 20px;
+}
+.img{
+    width : 100%
+}
+.btn[class*="btn-outline-"] {
+    width: 124px;
+}
+a{
+    padding: 0 !important;
+}
+.tc{
+    color: #2196f3!important;
+}
